@@ -1,4 +1,4 @@
-# Cwiczenie
+# Cwiczenie 1 
 1.Cw1.1 PODSTAWOWE. Napisz zapytanie zwracające kolor gruszki w zmiennej Kolor.  
 
 L1.Cw1.2 PODSTAWOWE. Znajdź produkt o kolorze czerwonym, nie wpisując jego nazwy.  
