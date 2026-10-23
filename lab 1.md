@@ -1,6 +1,13 @@
-# Cwiczenie 1 
-1.Cw1.1 PODSTAWOWE. Napisz zapytanie zwracające kolor gruszki w zmiennej Kolor.  
+# Cwiczenie 1   
+owoc(jablko).  
+owoc(gruszka).  
+owoc(sliwka).  
+kolor(jablko,czerwony).  
+kolor(gruszka,zielony).  
+kolor(sliwka,fioletowy).   
 
+1.Cw1.1 PODSTAWOWE. Napisz zapytanie zwracające kolor gruszki w zmiennej Kolor.  
+kolor(gruszka, Opis)./ kolor(gruszka,X).  
 L1.Cw1.2 PODSTAWOWE. Znajdź produkt o kolorze czerwonym, nie wpisując jego nazwy.  
 
 L1.Cw1.3 DODATKOWE. Sprawdź owoc(banan)., a następnie dopisz fakt owoc(banan). przy innych faktach  
