@@ -29,9 +29,9 @@ posiada(anna,ksiazka(solaris,lem)).
 Uwaga: punkty 2.3–2.5 to zapytania unifikacyjne z =. Nie wymagają faktów o czujnikach ani o parach.  
 
 L1.Cw2.1 PODSTAWOWE. Wypisz tytuły książek Anny, ignorując ich autorów.   
-
+posiada(anna,ksiazka(Tytul,_)).
 L1.Cw2.2 PODSTAWOWE. Znajdź autora książki diuna bez podawania właściciela.   
-
+posiada(_,ksiazka(diuna,Autor)).
 L1.Cw2.3 DODATKOWE. Uzgodnij odczyt(dzwonek,K,glosny) = odczyt(dzwonek,sluch,P). Podaj K i P.  
 
 L1.Cw2.4 DODATKOWE. Sprawdź, czy odczyt(lampa,wzrok,jasny) można zunifikować z odczyt(_,sluch,_).
