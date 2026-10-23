@@ -9,10 +9,10 @@ kolor(sliwka,fioletowy).
 1.Cw1.1 PODSTAWOWE. Napisz zapytanie zwracające kolor gruszki w zmiennej Kolor.  
 kolor(gruszka, Opis)./ kolor(gruszka,X).  
 L1.Cw1.2 PODSTAWOWE. Znajdź produkt o kolorze czerwonym, nie wpisując jego nazwy.  
-
+kolor(X,czerwony).
 L1.Cw1.3 DODATKOWE. Sprawdź owoc(banan)., a następnie dopisz fakt owoc(banan). przy innych faktach  
-
 owoc/1. Porównaj wyniki.
+njapierw będzie pokazywać false a nastęþnie true
 L1.Cw1.4 DODATKOWE. Uruchom kolor(_,niebieski). Czy wynik mówi cokolwiek pewnego o wszystkich  
 owocach w rzeczywistości?
 
